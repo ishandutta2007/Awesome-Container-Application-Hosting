@@ -29,7 +29,7 @@
 Welcome to the ultimate curated directory of **container application hosting platforms**, **open-source PaaS alternatives**, and **self-hosted deployment tools**. Whether you are looking for enterprise-grade commercial solutions (such as *Google Cloud Run*, *Render*, and *Railway*), or self-hostable open-source alternatives (like *Coolify*, *Dokploy*, and *OpenRun*), this list covers category leaders, GitOps workflows, and privacy-respecting application deployment.
 
 **Key Market Context:**
-- **Coolify** has emerged as the **leading open-source PaaS** with **62,000+ GitHub stars**, offering **Heroku/Vercel/Netlify alternative** functionality on your own infrastructure 🚀.
+- **Coolify** has emerged as the **leading open-source PaaS** with **62,000+ GitHub_Stars**, offering **Heroku/Vercel/Netlify alternative** functionality on your own infrastructure 🚀.
 - **OpenRun** is the **declarative GitOps alternative to Cloud Run and App Runner**, with **scale-to-zero** and **OAuth/SAML RBAC** built in 📝.
 - **Homerun** provides a **single-user PaaS for homelab users**, with **live deploy progress**, **automatic SSL**, and **S3 backups** 🏠.
 
@@ -68,46 +68,46 @@ Welcome to the ultimate curated directory of **container application hosting pla
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Coolify](https://github.com/coollabsio/coolify)** [![Stars](https://img.shields.io/github/stars/coollabsio/coolify?style=social&color=white)](https://github.com/coollabsio/coolify/stargazers)  
-  **The leading open-source PaaS alternative to Vercel, Heroku, and Netlify**, Apache-2.0 licensed. **62,000+ GitHub stars** — **the most popular self-hosted PaaS** 🚀. **Deploy apps, databases, and 280+ one-click services** (Plausible, Gitea, Minio, n8n, and more) . **Git-push deploys** with GitHub, GitLab, Bitbucket, or Gitea — plus **preview deployments per PR**. **Nixpacks auto-detection** builds your stack without config. **Automatic SSL** via Let's Encrypt. **S3-compatible backups**. **Docker Swarm support** for multi-server. **Real-time terminal** in the browser. **Self-hosted version completely free** — no server limits, no feature restrictions. **Cloud dashboard from $5/month** (2 servers) . **The most complete open-source application hosting platform** .
+  **The leading open-source PaaS alternative to Vercel, Heroku, and Netlify**, Apache-2.0 licensed. **62,000+ GitHub_Stars** — **the most popular self-hosted PaaS** 🚀. **Deploy apps, databases, and 280+ one-click services** (Plausible, Gitea, Minio, n8n, and more) . **Git-push deploys** with GitHub, GitLab, Bitbucket, or Gitea — plus **preview deployments per PR**. **Nixpacks auto-detection** builds your stack without config. **Automatic SSL** via Let's Encrypt. **S3-compatible backups**. **Docker Swarm support** for multi-server. **Real-time terminal** in the browser. **Self-hosted version completely free** — no server limits, no feature restrictions. **Cloud dashboard from $5/month** (2 servers) . **The most complete open-source application hosting platform** .
 
 - **[Dokploy](https://github.com/Dokploy/dokploy)** [![Stars](https://img.shields.io/github/stars/Dokploy/dokploy?style=social&color=white)](https://github.com/Dokploy/dokploy/stargazers)  
-  **Open-source alternative to Vercel, Netlify, and Heroku**, source-available licensed. **37,381 GitHub stars** 🎯. **Runs on Docker with Traefik** for routing and SSL. **Native GitHub, GitLab, Bitbucket, and Gitea integrations**. **Heroku Buildpacks, Nixpacks, and Paketo** support. **Built-in metrics**, **AI-powered Docker Compose templates**, and **Docker Swarm support**. **Self-hosted free**; managed from **$4.50/month** . **The most efficient single-server PaaS** .
+  **Open-source alternative to Vercel, Netlify, and Heroku**, source-available licensed. **37,381 GitHub_Stars** 🎯. **Runs on Docker with Traefik** for routing and SSL. **Native GitHub, GitLab, Bitbucket, and Gitea integrations**. **Heroku Buildpacks, Nixpacks, and Paketo** support. **Built-in metrics**, **AI-powered Docker Compose templates**, and **Docker Swarm support**. **Self-hosted free**; managed from **$4.50/month** . **The most efficient single-server PaaS** .
 
 - **[Dokku](https://github.com/dokku/dokku)** [![Stars](https://img.shields.io/github/stars/dokku/dokku?style=social&color=white)](https://github.com/dokku/dokku/stargazers)  
-  **Docker-powered PaaS for building and managing app lifecycles**, MIT licensed. **32,147 GitHub stars** 🐳. **"Heroku on a VPS"** — **Git-push deploys**, **buildpacks**, and **plugin system**. **No UI** — CLI-only. **The simplest minimal PaaS** .
+  **Docker-powered PaaS for building and managing app lifecycles**, MIT licensed. **32,147 GitHub_Stars** 🐳. **"Heroku on a VPS"** — **Git-push deploys**, **buildpacks**, and **plugin system**. **No UI** — CLI-only. **The simplest minimal PaaS** .
 
 - **[CapRover](https://github.com/caprover/caprover)** [![Stars](https://img.shields.io/github/stars/caprover/caprover?style=social&color=white)](https://github.com/caprover/caprover/stargazers)  
-  **Scalable PaaS (automated Docker + nginx)**, Apache-2.0 licensed. **15,168 GitHub stars** ⚓. **"Heroku on Steroids"** — **one-click apps**, **Git-push deploys**, and **Nginx reverse proxy**. **The original open-source PaaS** — battle-tested for years.
+  **Scalable PaaS (automated Docker + nginx)**, Apache-2.0 licensed. **15,168 GitHub_Stars** ⚓. **"Heroku on Steroids"** — **one-click apps**, **Git-push deploys**, and **Nginx reverse proxy**. **The original open-source PaaS** — battle-tested for years.
 
 - **[Kamal](https://github.com/basecamp/kamal)** [![Stars](https://img.shields.io/github/stars/basecamp/kamal?style=social&color=white)](https://github.com/basecamp/kamal/stargazers)  
-  **Deploy web apps anywhere**, MIT licensed. **14,585 GitHub stars** 🚂. **From Basecamp** — **zero-downtime deploys**, **rolling restarts**, and **multi-server support**. **The simplest way to deploy containers to bare metal** .
+  **Deploy web apps anywhere**, MIT licensed. **14,585 GitHub_Stars** 🚂. **From Basecamp** — **zero-downtime deploys**, **rolling restarts**, and **multi-server support**. **The simplest way to deploy containers to bare metal** .
 
 - **[Komodo](https://github.com/moghtech/komodo)** [![Stars](https://img.shields.io/github/stars/moghtech/komodo?style=social&color=white)](https://github.com/moghtech/komodo/stargazers)  
-  **Tool to build and deploy software on many servers**, open-source. **12,344 GitHub stars** 🦎. **Multi-server deployments** with **build and deploy workflows**. **The most scalable open-source deployment tool** .
+  **Tool to build and deploy software on many servers**, open-source. **12,344 GitHub_Stars** 🦎. **Multi-server deployments** with **build and deploy workflows**. **The most scalable open-source deployment tool** .
 
 - **[Piku](https://github.com/piku/piku)** [![Stars](https://img.shields.io/github/stars/piku/piku?style=social&color=white)](https://github.com/piku/piku/stargazers)  
-  **The tiniest PaaS you've ever seen**, MIT licensed. **6,605 GitHub stars** 🐜. **Git-push deployments to your own servers**. **~1000 lines of Python**. **The most minimal open-source PaaS** .
+  **The tiniest PaaS you've ever seen**, MIT licensed. **6,605 GitHub_Stars** 🐜. **Git-push deployments to your own servers**. **~1000 lines of Python**. **The most minimal open-source PaaS** .
 
 - **[Kubero](https://github.com/kubero-dev/kubero)** [![Stars](https://img.shields.io/github/stars/kubero-dev/kubero?style=social&color=white)](https://github.com/kubero-dev/kubero/stargazers)  
-  **Free and self-hosted PaaS alternative to Heroku/Netlify/Vercel**, Apache-2.0 licensed. **4,422 GitHub stars** ☸️. **Runs on Kubernetes** — deploys apps to your K8s cluster. **Git-push deploys** with preview environments. **The Kubernetes-native open-source PaaS** .
+  **Free and self-hosted PaaS alternative to Heroku/Netlify/Vercel**, Apache-2.0 licensed. **4,422 GitHub_Stars** ☸️. **Runs on Kubernetes** — deploys apps to your K8s cluster. **Git-push deploys** with preview environments. **The Kubernetes-native open-source PaaS** .
 
 - **[SwiftWave](https://github.com/swiftwave-org/swiftwave)** [![Stars](https://img.shields.io/github/stars/swiftwave-org/swiftwave?style=social&color=white)](https://github.com/swiftwave-org/swiftwave/stargazers)  
-  **Self-hosted lightweight PaaS for any VPS**, Apache-2.0 licensed. **890 GitHub stars** 🌊. **Install on bare metal, Raspberry Pi, Hetzner, DigitalOcean**. **Docker Swarm mode** for scaling. **The most lightweight open-source PaaS** .
+  **Self-hosted lightweight PaaS for any VPS**, Apache-2.0 licensed. **890 GitHub_Stars** 🌊. **Install on bare metal, Raspberry Pi, Hetzner, DigitalOcean**. **Docker Swarm mode** for scaling. **The most lightweight open-source PaaS** .
 
 - **[OpenRun](https://github.com/openrundev/openrun)** [![Stars](https://img.shields.io/github/stars/openrundev/openrun?style=social&color=white)](https://github.com/openrundev/openrun/stargazers)  
-  **Declarative GitOps web app deployment**, Apache-2.0 licensed. **850 GitHub stars** 📝. **Open-source alternative to Google Cloud Run and AWS App Runner** . **Declarative config in Starlark** (Python-like) — **no YAML hell**. **Scale-to-zero** for idle apps. **OAuth/OIDC/SAML with RBAC**. **Atomic updates** across multiple apps. **Single binary, Docker/Podman dependency only**. **The most declarative open-source PaaS** .
+  **Declarative GitOps web app deployment**, Apache-2.0 licensed. **850 GitHub_Stars** 📝. **Open-source alternative to Google Cloud Run and AWS App Runner** . **Declarative config in Starlark** (Python-like) — **no YAML hell**. **Scale-to-zero** for idle apps. **OAuth/OIDC/SAML with RBAC**. **Atomic updates** across multiple apps. **Single binary, Docker/Podman dependency only**. **The most declarative open-source PaaS** .
 
 - **[Frost](https://github.com/elitan/frost)** [![Stars](https://img.shields.io/github/stars/elitan/frost?style=social&color=white)](https://github.com/elitan/frost/stargazers)  
-  **Open-source alternative to Vercel, Netlify, Railway, Render, and Neon**, open-source. **620 GitHub stars** ❄️. **Build, deploy, and run from one platform**. **Git push deploy workflow**. **Docker-native, no Kubernetes**. **S3-compatible object storage**. **REST API and MCP support for AI agents**. **The most comprehensive open-source deployment platform** .
+  **Open-source alternative to Vercel, Netlify, Railway, Render, and Neon**, open-source. **620 GitHub_Stars** ❄️. **Build, deploy, and run from one platform**. **Git push deploy workflow**. **Docker-native, no Kubernetes**. **S3-compatible object storage**. **REST API and MCP support for AI agents**. **The most comprehensive open-source deployment platform** .
 
 - **[Homerun](https://github.com/orochibraru/homerun)** [![Stars](https://img.shields.io/github/stars/orochibraru/homerun?style=social&color=white)](https://github.com/orochibraru/homerun/stargazers)  
-  **Self-hosted, single-user PaaS for homelab users**, open-source. **450 GitHub stars** 🏠. **Click-config form** for deploying Docker containers. **Point at an image or git repo, fill in env vars/port/resources, hit deploy** — Traefik routes it with TLS . **Live deploy progress** streamed to UI. **Deployment history** with full logs. **Templates for Redis, Postgres, MySQL, MongoDB, Adminer, Uptime Kuma, n8n, Vaultwarden**. **The most accessible open-source PaaS for homelabs** .
+  **Self-hosted, single-user PaaS for homelab users**, open-source. **450 GitHub_Stars** 🏠. **Click-config form** for deploying Docker containers. **Point at an image or git repo, fill in env vars/port/resources, hit deploy** — Traefik routes it with TLS . **Live deploy progress** streamed to UI. **Deployment history** with full logs. **Templates for Redis, Postgres, MySQL, MongoDB, Adminer, Uptime Kuma, n8n, Vaultwarden**. **The most accessible open-source PaaS for homelabs** .
 
 - **[Miabi](https://github.com/miabi-io/miabi)** [![Stars](https://img.shields.io/github/stars/miabi-io/miabi?style=social&color=white)](https://github.com/miabi-io/miabi/stargazers)  
-  **Self-hosted PaaS with true workspace isolation and RBAC**, open-source. **310 GitHub stars** 🏢. **Multiple clusters & locations** — one control plane drives many clusters . **Pipelines (pipeline-as-code CI/CD)**, **build runners**, and **GitOps with declarative manifests**. **Marketplace** with WordPress, Ghost, Nextcloud, n8n, Gitea, and more. **Privacy-first analytics** — cookieless, no consent banner, IPs never stored. **Enterprise features**: SAML 2.0, SCIM, LDAP/AD. **The most enterprise-ready open-source PaaS** .
+  **Self-hosted PaaS with true workspace isolation and RBAC**, open-source. **310 GitHub_Stars** 🏢. **Multiple clusters & locations** — one control plane drives many clusters . **Pipelines (pipeline-as-code CI/CD)**, **build runners**, and **GitOps with declarative manifests**. **Marketplace** with WordPress, Ghost, Nextcloud, n8n, Gitea, and more. **Privacy-first analytics** — cookieless, no consent banner, IPs never stored. **Enterprise features**: SAML 2.0, SCIM, LDAP/AD. **The most enterprise-ready open-source PaaS** .
 
 ---
 
@@ -142,7 +142,7 @@ If you find this container application hosting directory useful, thank you for c
 
 - This is a **community-curated** list — not exhaustive and not an endorsement. ℹ️
 - **Google Cloud Run and Azure Container Apps scale to zero** — **$0 floor when idle** . **Azure Container Apps is built on Kubernetes, KEDA, Dapr, and Envoy** . **Cloud Run is built on Knative** for portability.
-- **Coolify is the most popular open-source PaaS** with **62,000+ GitHub stars** . **Dokploy focuses on efficiency** with **37,381 GitHub stars** . **OpenRun brings declarative GitOps** to web app deployment .
+- **Coolify is the most popular open-source PaaS** with **62,000+ GitHub_Stars** . **Dokploy focuses on efficiency** with **37,381 GitHub_Stars** . **OpenRun brings declarative GitOps** to web app deployment .
 - **Open-source PaaS tools (Coolify, Dokploy, OpenRun) are not turnkey** — they require **server provisioning, DNS configuration, and ongoing maintenance**. **Always validate deployment workflows with a proof-of-concept** before production deployment. 🚢
 
 ---
